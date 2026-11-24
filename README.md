@@ -1,6 +1,6 @@
 # Point-of-Sale System for a Local Pet Store
 
-Web-based point-of-sale system built for a pet store in Ciudad Juarez to replace manual sales tracking.
+Web-based point-of-sale system built for a pet store in Juarez, Mexico (Mascotas Rio grande mall, [Click here for the Fb business page](https://www.facebook.com/mascotasriograndemall)  to replace manual sales tracking.
 The source code is private; this repository documents the project.
 
 ## Demo
